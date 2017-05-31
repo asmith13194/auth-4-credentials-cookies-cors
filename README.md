@@ -27,4 +27,4 @@ If you have been authorized on a certain domain, you can access the whole site. 
 
 > Based on what you know, how would you explain CORS?
 
-If you are on one site and want to make a request to another site, the first site must authorize this request in order for it to be allowed.
+If you are on one site and want to make a request to a second site, the second site must authorize this request in order for it to be allowed.
